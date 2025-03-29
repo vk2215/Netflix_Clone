@@ -55,17 +55,17 @@ Before running this project, ensure you have the following installed:
 
 Create a .env file inside the backend directory and add:
 
-Port=5000
-NODE_ENV=development
-MONGO_URI=your_mongodb_connection_string
-JWT_SECRET=your_jwt_secret
-TMDB_API_KEY=your_tmdb_api_key
+    -Port=5000
+    -NODE_ENV=development
+    -MONGO_URI=your_mongodb_connection_string
+    -JWT_SECRET=your_jwt_secret
+    -TMDB_API_KEY=your_tmdb_api_key
 
 
 🔗 Contact
 
 For any queries or suggestions, reach out to:
-📧 Email: vaishnavikale22301@gmail.com
+    📧 Email: vaishnavikale22301@gmail.com
 
 
 

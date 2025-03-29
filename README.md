@@ -1,7 +1,7 @@
 
 <h1 align="center">🎬 Netflix Clone</h1>
 
-![Demo App](/frontend/public/screenshot-for-readme.png)
+![Demo App](/frontend/public/stranger-things-lg.png)
 
 A Netflix-like platform that allows users to browse movies and shows, featuring user authentication and real-time movie data fetched from an external API.
 
@@ -34,25 +34,17 @@ Before running this project, ensure you have the following installed:
     Git
 
 📌 Project Setup
+    
+       1. Clone the Repository  -> git clone https://github.com/your-username/netflix-clone.git
+                                   cd netflix-clone
 
-# Clone the Repository
-git clone https://github.com/your-username/netflix-clone.git
-cd netflix-clone
+       2. Install Dependencies -> npm install
 
-# Install Dependencies
-npm install
+       3. Set Up Environment Variables -> Create a .env file in the root directory and add the required environment variables
 
-# Set Up Environment Variables
-# Create a .env file in the root directory and add the required environment variables
-MONGO_URI=your-mongodb-connection-string
-API_KEY=your-movie-api-key
-JWT_SECRET=your-jwt-secret
+       4. Run the App Locally -> npm run build
 
-# Run the App Locally
-npm run build
-
-# Start the App
-npm run start
+       5 Start the App -> npm run start
 
 
 🔑 Environment Variables

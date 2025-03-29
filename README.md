@@ -5,6 +5,10 @@
 
 A Netflix-like platform that allows users to browse movies and shows, featuring user authentication and real-time movie data fetched from an external API.
 
+🔗 Live Demo
+
+[🚀 Click Here to View Live App](https://netflix-clone-kbfw.onrender.com/)
+
 🚀 Features
 
     -🎬 Movie Listings: Categorized sections like Movies, Series, etc.

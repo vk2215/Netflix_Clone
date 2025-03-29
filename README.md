@@ -1,7 +1,7 @@
 
 <h1 align="center">🎬 Netflix Clone</h1>
 
-![Demo App](/frontend/public/stranger-things-lg.png)
+![Demo App](/frontend/public/readme.png)
 
 A Netflix-like platform that allows users to browse movies and shows, featuring user authentication and real-time movie data fetched from an external API.
 

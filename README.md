@@ -34,19 +34,25 @@ Before running this project, ensure you have the following installed:
     Git
 
 📌 Project Setup
-1.Clone the Repository ➝ git clone https://github.com/your-username/netflix-clone.git
-                          cd netflix-clone
 
-2.Install Dependencies ➝ npm install
+# Clone the Repository
+git clone https://github.com/your-username/netflix-clone.git
+cd netflix-clone
 
-3.Set Up Environment Variables ➝ Create a .env file in the root directory and add the required environment variables, such as:
-                                  MONGO_URI=your-mongodb-connection-string
-                                  API_KEY=your-movie-api-key
-                                  JWT_SECRET=your-jwt-secret
+# Install Dependencies
+npm install
 
-4.Run the App Locally ➝ npm run build
+# Set Up Environment Variables
+# Create a .env file in the root directory and add the required environment variables
+MONGO_URI=your-mongodb-connection-string
+API_KEY=your-movie-api-key
+JWT_SECRET=your-jwt-secret
 
-5.Start the App ➝ npm run start
+# Run the App Locally
+npm run build
+
+# Start the App
+npm run start
 
 
 🔑 Environment Variables
